@@ -1,8 +1,5 @@
 # CryptoAnalisys
-Tools and examples about common hashing and crypto methods
-
-Some usefull notes about hashing function with openssl (and more)
-----------------------------------------------------------------------
+Tools and examples about common hashing and crypto methods.
 
 Usefull resources:
  - https://wiki.openssl.org/index.php/Command_Line_Utilities

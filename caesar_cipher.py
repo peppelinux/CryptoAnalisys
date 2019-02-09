@@ -12,8 +12,6 @@ def simplify_n(number, max_n):
         if n - max_n < 0:
             return n
         n -= max_n
-    if number < 0:
-        return -n
     return n
 
 def ord_map(letters=string.printable, reverse=False):
